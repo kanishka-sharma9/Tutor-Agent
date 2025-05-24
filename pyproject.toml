@@ -1,0 +1,12 @@
+[project]
+name = "tutor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "adk>=0.0.5",
+    "google-adk>=1.0.0",
+    "langchain-community>=0.3.24",
+    "langchain-experimental>=0.3.4",
+]
