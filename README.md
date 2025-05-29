@@ -37,6 +37,10 @@ Tutor-Agent is a modular AI tutoring system built using the Google Agent Develop
    ```bash
    adk web
    ```
+   OR
+   ```
+   streamlit run app.py
+   ```
 
 Open your browser and navigate to the provided URL to interact with the Tutor Agent.
 
